@@ -1,0 +1,24 @@
+/* Diego Haro */
+body{
+    background: linear-gradient(
+    to right, 
+    rgb(67, 67, 53) 0%,   /* Green starts at 0% (center) */
+    rgb(116, 116, 88) 50%,  /* Green ends at 30% */
+    rgb(126, 126, 79) 100% /* Yellow starts at 30% */
+   );
+}
+
+
+section{
+    background-color: rgb(206, 209, 211);
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 300PX;
+    padding-bottom: 10px;
+    
+}
+
+.button{
+    margin-top: 20px;
+}
